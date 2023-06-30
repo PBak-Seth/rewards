@@ -7,7 +7,7 @@ This is a rewards application built with Vite and React.
 1. Clone the repository:
 
 ```
-git clone https://github.com/Ashy4n/react-app.git
+git clone https://github.com/PBak-Seth/rewards.git
 ```
 
 2. Navigate to the project directory:
